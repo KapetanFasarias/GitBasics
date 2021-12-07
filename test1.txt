@@ -1,1 +1,2 @@
 This is the first entry in test 1
+Second entry in master.
